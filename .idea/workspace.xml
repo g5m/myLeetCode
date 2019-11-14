@@ -4,9 +4,66 @@
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ca4feb97-447a-46bc-9a22-c48f7a7342ec" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="ca4feb97-447a-46bc-9a22-c48f7a7342ec" name="Default Changelist" comment="first">
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/CheckIfWordIsValidAfterSubstitutions_1003.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/CombinationSum_39.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/Combinations_77.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/ConstructQuadTree_427$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/ConstructQuadTree_427.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/DivideTwoIntegers_29.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/FindBottomLeftTreeValue_513.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/FindDuplicateFileInSystem_609.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/IntegerReplacement_397.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/JumpGame_55.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/ListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/MinimumAddtoMakeParenthesesValid_921.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/NetWorkDelayTime_743.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/NumberofClosedIslands_1254.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/PartitionLabels_763.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/RedundantConnection_684.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/RemoveNthNodeFromEndofList_19.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/RevealCardsInIncreasingOrder_950.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/ReverseWordsInaString_151.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/ScoreAfterFlippingMatrix_861.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/SearchA2DMatrixII_240.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/SingleNumberIII_260.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/SortColors_75.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/SpiralMatrix_54.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/SummaryRanges_228.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/WordLadder_127.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/source/test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/week_159.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CheckIfWordIsValidAfterSubstitutions_1003.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CombinationSum_39.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Combinations_77.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConstructQuadTree_427.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DivideTwoIntegers_29.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FindBottomLeftTreeValue_513.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FindDuplicateFileInSystem_609.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IntegerReplacement_397.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JumpGame_55.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MinimumAddtoMakeParenthesesValid_921.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NumberofClosedIslands_1254.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PartitionLabels_763.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RedundantConnection_684.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RemoveNthNodeFromEndofList_19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RevealCardsInIncreasingOrder_950.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReverseWordsInaString_151.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ScoreAfterFlippingMatrix_861.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SearchA2DMatrixII_240.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SingleNumberIII_260.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SortColors_75.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SpiralMatrix_54.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SummaryRanges_228.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WordLadder_127.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/source/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_159.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/NetWorkDelayTime_743.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NetWorkDelayTime_743.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -44,6 +101,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -61,16 +119,37 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.test">
-    <configuration name="Code" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Code" />
+  <component name="RunManager" selected="Application.DivideTwoIntegers_29">
+    <configuration name="DivideTwoIntegers_29" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DivideTwoIntegers_29" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test" />
+    <configuration name="IntegerReplacement_397" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IntegerReplacement_397" />
+      <module name="leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JumpGame_55" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JumpGame_55" />
+      <module name="leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpiralMatrix_54" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SpiralMatrix_54" />
+      <module name="leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WordLadder_127" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WordLadder_127" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -78,8 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.test" />
-        <item itemvalue="Application.Code" />
+        <item itemvalue="Application.DivideTwoIntegers_29" />
+        <item itemvalue="Application.JumpGame_55" />
+        <item itemvalue="Application.SpiralMatrix_54" />
+        <item itemvalue="Application.WordLadder_127" />
+        <item itemvalue="Application.IntegerReplacement_397" />
       </list>
     </recent_temporary>
   </component>
@@ -129,8 +211,28 @@
       <workItem from="1571103297786" duration="2028000" />
       <workItem from="1571134039692" duration="5688000" />
       <workItem from="1571273277926" duration="715000" />
-      <workItem from="1571276420760" duration="593000" />
+      <workItem from="1571276420760" duration="17320000" />
+      <workItem from="1571377596189" duration="10317000" />
+      <workItem from="1571534996624" duration="6447000" />
+      <workItem from="1571644597176" duration="4519000" />
+      <workItem from="1571724210739" duration="9019000" />
+      <workItem from="1571806564684" duration="10063000" />
+      <workItem from="1571897712074" duration="7852000" />
+      <workItem from="1573455028948" duration="8707000" />
+      <workItem from="1573520789206" duration="4855000" />
+      <workItem from="1573558293168" duration="5120000" />
+      <workItem from="1573617629869" duration="16000" />
+      <workItem from="1573633639470" duration="7986000" />
+      <workItem from="1573714196309" duration="6275000" />
     </task>
+    <task id="LOCAL-00001" summary="first">
+      <created>1571277095300</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1571277095300</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -141,11 +243,17 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first" />
+    <option name="LAST_COMMIT_MESSAGE" value="first" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -175,10 +283,146 @@
           <line>48</line>
           <option name="timeStamp" value="72" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/NetWorkDelayTime_743.java</url>
+          <line>141</line>
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/NetWorkDelayTime_743.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="89" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/NetWorkDelayTime_743.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SearchA2DMatrixII_240.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="106" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SearchA2DMatrixII_240.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="107" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/week_159.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="110" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ConstructQuadTree_427.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="111" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ConstructQuadTree_427.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="112" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ConstructQuadTree_427.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="113" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ConstructQuadTree_427.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="115" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RedundantConnection_684.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="118" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RedundantConnection_684.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="123" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RevealCardsInIncreasingOrder_950.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="124" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ScoreAfterFlippingMatrix_861.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="126" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Combinations_77.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="133" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/CombinationSum_39.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="138" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/CombinationSum_39.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="139" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/PartitionLabels_763.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="142" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SingleNumberIII_260.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="143" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ReverseWordsInaString_151.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="144" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/IntegerReplacement_397.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="146" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/IntegerReplacement_397.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="152" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/WordLadder_127.java</url>
+          <line>63</line>
+          <option name="timeStamp" value="155" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/WordLadder_127.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="158" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/WordLadder_127.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="160" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SpiralMatrix_54.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="162" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DivideTwoIntegers_29.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="163" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/leetcode$test.ic" NAME="test Coverage Results" MODIFIED="1569320885408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/leetcode$ReverseWordsInaString_151.ic" NAME="ReverseWordsInaString_151 Coverage Results" MODIFIED="1573521113947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
